@@ -1,6 +1,6 @@
 # <img src="https://github.com/JoseCarmeloManchon/resources/blob/69ffb46589f93ed74ed326442ae1d18fc35a0370/Imagen2.png" width="100"> Bienvenido al GitHub de Jose Carmelo
 
-![Banner de JC](JoseCarmeloManchon/resources/Banner.png)
+![Banner de JC](https://github.com/JoseCarmeloManchon/resources/blob/69ffb46589f93ed74ed326442ae1d18fc35a0370/Banner.png)
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
